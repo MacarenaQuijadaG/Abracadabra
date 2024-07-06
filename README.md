@@ -1,4 +1,4 @@
-# Juego de Magia - Encuentra el Conejo
+# Juego de Magia - Abracadabra
 
 Este proyecto es un servidor desarrollado con Express que sirve un sitio web estático con temática de magia. En este sitio, los usuarios pueden interactuar con cuatro sombreros y al hacer clic en uno de ellos, tratar de encontrar el conejo oculto.
 
