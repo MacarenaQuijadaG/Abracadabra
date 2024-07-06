@@ -2,6 +2,10 @@
 
 Este proyecto es un servidor desarrollado con Express que sirve un sitio web estático con temática de magia. En este sitio, los usuarios pueden interactuar con cuatro sombreros y al hacer clic en uno de ellos, tratar de encontrar el conejo oculto.
 
+## Visuales
+![1](https://github.com/MacarenaQuijadaG/Abracadabra/assets/50925916/bbb23d58-01e0-43c6-8a39-215035ebdda0)
+
+
 ## Funcionalidades del Servidor
 
 El servidor dispone de las siguientes rutas:
